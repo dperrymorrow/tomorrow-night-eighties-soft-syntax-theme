@@ -1,7 +1,7 @@
 {
-  "name": "tomorrow-night-eighties-syntax",
+  "name": "tomorrow-night-eighties-soft-syntax",
   "version": "1.0.2",
-  "description": "Tomorrow Night Eighties syntax theme for Atom",
+  "description": "Tomorrow Night Eighties Soft syntax theme for Atom",
   "license": "MIT",
   "theme": "syntax",
   "keywords": [
@@ -12,16 +12,11 @@
     "theme"
   ],
   "contributors": [
-    "Rocky Madden",
-    "Ryan Sobol"
+    "David Morrow"
   ],
-  "homepage": "https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme"
-  },
-  "bugs": {
-    "url": "https://github.com/rockymadden/tomorrow-night-eighties-syntax-theme/issues"
+    "url": "https://github.com/dperrymorrow/tomorrow-night-eighties-soft-syntax-theme"
   },
   "engines": {
     "atom": ">=1.13"
